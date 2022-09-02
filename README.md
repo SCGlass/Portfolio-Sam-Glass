@@ -1,6 +1,6 @@
 
 
-# Sam Glass :man:
+# Sam Glass :mortar_board:
 I am currently a student studying AI and Machine learning at IT Högskolan in Gothenburg, Sweden. This began Autumn term 2022.
 I have always wanted to pursue a career in the Tech world! In being given the opportunity to study AI and Machine learning I believe that many exciting positions will be available to myself.
 It would be amazing if I could use this new information to be able to help people in some way or another, whether this may be within the health industry or environmentally.
@@ -10,7 +10,15 @@ I hope to be able to continue learning through my future career and be able to i
 
 ---
 
-## GitHub portfolio :briefcase:
+## Future goals :soccer:
+
+- Become a qualified Data scientist
+- Gain knowledge from a reputable job internship
+- Discover and progress the field of AI, machine learning and Deep learning.
+
+
+---
+## GitHub portfolio :floppy_disk:
 
 | Repo                           | Description                        |
 | ------------------------------ | ---------------------------------- |
@@ -23,7 +31,7 @@ I hope to be able to continue learning through my future career and be able to i
 
 [dl]: 
 [ml]:
-[pytprog]:
+[pytprog]:https://github.com/SCGlass/python-sam-glass.git
 [data_analysis]:
 [prog1]: 
 [lin_alg]:
