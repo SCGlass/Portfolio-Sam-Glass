@@ -29,11 +29,10 @@ I hope to be able to continue learning through my future career and be able to i
 | [Linear algebra][lin_alg]      | introductory linear algebra course |
 
 
-[dl]: 
+[dl]:
 [ml]:
 [pytprog]:https://github.com/SCGlass/python-sam-glass.git
 [data_analysis]:
-[prog1]: 
 [lin_alg]:
 
 ---
